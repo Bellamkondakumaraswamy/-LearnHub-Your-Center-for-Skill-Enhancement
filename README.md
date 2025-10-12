@@ -80,31 +80,30 @@ I love turning ideas into functional, user-friendly web applications and explori
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="#">AI Chatbot for College Automation</a></h3>
-      <p>Created an AI chatbot to automate college-related queries using conversational AI and natural language understanding.</p>
+      <h3>📚 <a href="https://github.com/Bellamkondakumaraswamy/LearnHub-Your-Center-for-Skill-Enhancement">LearnHub: Your Center for Skill Enhancement</a></h3>
+      <p>Created a platform for skill development with courses, quizzes, and progress tracking features.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI_Chatbot-FF6F61?style=for-the-badge">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 <a href="#">Finance Tracker App</a></h3>
-      <p>A web app to manage personal expenses and visualize spending patterns with charts and analytics dashboards.</p>
+      <h3>🌐 <a href="https://github.com/Bellamkondakumaraswamy/Mywebsite">Personal Portfolio Website</a></h3>
+      <p>Designed a personal portfolio website showcasing projects, skills, and contact information.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="#">Data Visualization Dashboard</a></h3>
-      <p>Designed interactive dashboards for business insights using Power BI and data analytics techniques.</p>
+      <h3>👤 <a href="https://github.com/Bellamkondakumaraswamy/VelchuriMahesh">VelchuriMahesh</a></h3>
+      <p>Forked project featuring personal information and achievements.</p>
       <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       </p>
     </td>
   </tr>
