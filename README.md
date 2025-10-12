@@ -1,9 +1,4 @@
-<!-- 
-Banner Image:
-Create a banner (1280x400px) using Canva or Figma.
-Include your name, title, and tech icons. Upload it to a public repo (e.g., "github-assets") and update the URL below.
--->
-
+<!-- Banner Image -->
 <div align="center">
 
 # Hi there, I'm Bellamkonda Kumaraswamy 👋
@@ -17,111 +12,119 @@ Include your name, title, and tech icons. Upload it to a public repo (e.g., "git
 </div>
 
 <p align="center">
-  <a href="mailto:kumaraswamybellamkonda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/bellamkondakumaraswamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Bellamkondakumaraswamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:kumaraswamybellamkonda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=red&logoWidth=20&label=Email"></a>
+  <a href="https://www.linkedin.com/in/bellamkondakumaraswamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Bellamkondakumaraswamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a passionate and detail-oriented **B.Tech student** specializing in **Full Stack Web Development** using the **MERN stack**.  
-I love turning ideas into functional, user-friendly web applications and exploring the intersection of **software and data analytics**.  
+I’m a passionate **B.Tech student** specializing in **Full Stack Web Development (MERN)** and **Data Analytics**.  
+I turn ideas into functional, responsive, and interactive web applications.  
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering**.  
-- 💡 Building projects in **MERN Stack**, **AI Chatbots**, and **Finance Tracking Applications**.  
-- 🧠 Currently learning **Data Visualization, Power BI**, and **Dashboard Creation**.  
-- 🚀 Dedicated to growing as a **Full Stack Developer** and **Data Analyst**.
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering**  
+- 💡 Building projects in **MERN Stack, AI Chatbots, Finance Apps**  
+- 🧠 Learning **Data Visualization, Power BI**, and **Dashboard Creation**  
+- 🚀 Goal: Become a **Full Stack Developer & Data Analyst**  
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack & Skills
 
 <p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
-<p align="center">
-  <strong>Frameworks & Libraries:</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
-
-<p align="center">
-  <strong>Tools & Platforms:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <!-- Animated Tech Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" title="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" width="40" height="40" title="Power BI">
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
+## 🚀 Highlighted Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🍴 <a href="https://github.com/Bellamkondakumaraswamy/Food-Delivery-App-Using-Mern-Stack">Online Food Delivery App</a></h3>
-      <p>Developed a complete food delivery application using the MERN stack with login, restaurant listing, cart, and order management.</p>
+      <h3>📚 <a href="https://github.com/Bellamkondakumaraswamy/LearnHub-Your-Center-for-Skill-Enhancement">LearnHub: Skill Enhancement Platform</a></h3>
+      <p>A platform to enhance skills through structured learning modules and resources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 <a href="https://github.com/Bellamkondakumaraswamy/Food-Delivery-App-Using-Mern-Stack">Food Delivery App</a></h3>
+      <p>Full-stack MERN application for online food delivery with authentication, restaurant listings, and order management.</p>
       <p>
         <img src="https://img.shields.io/badge/MERN_Stack-00BFFF?style=for-the-badge">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/Bellamkondakumaraswamy/LearnHub-Your-Center-for-Skill-Enhancement">LearnHub: Your Center for Skill Enhancement</a></h3>
-      <p>Created a platform for skill development with courses, quizzes, and progress tracking features.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/Bellamkondakumaraswamy/Mywebsite">Personal Portfolio Website</a></h3>
-      <p>Designed a personal portfolio website showcasing projects, skills, and contact information.</p>
+      <p>Showcases projects, skills, and achievements using modern web design.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>👤 <a href="https://github.com/Bellamkondakumaraswamy/VelchuriMahesh">VelchuriMahesh</a></h3>
-      <p>Forked project featuring personal information and achievements.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      </p>
+      <!-- Empty for balance -->
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Achievements
-- Completed several full stack web projects integrating frontend and backend seamlessly.  
-- Participated in hackathons and coding events focused on innovative tech solutions.  
-- Developed projects for academic and community purposes like the **College Automation Chatbot**.  
+## 📊 GitHub Stats & Skills
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bellamkondakumaraswamy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellamkondakumaraswamy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bellamkondakumaraswamy&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 💻 Skills Progress
 
 <p align="center">
-  <a href="mailto:kumaraswamybellamkonda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/React-90%25-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Node.js-85%25-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Express.js-80%25-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MongoDB-85%25-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PowerBI-70%25-orange?style=for-the-badge">
+</p>
+
+---
+
+## 🏆 Achievements
+- Completed full stack web projects with seamless frontend & backend integration  
+- Participated in hackathons & coding events focused on innovative solutions  
+- Developed projects for academic & community purposes like **College Automation Chatbot**  
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:kumaraswamybellamkonda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email"></a>
   <a href="https://www.linkedin.com/in/bellamkondakumaraswamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Bellamkondakumaraswamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
