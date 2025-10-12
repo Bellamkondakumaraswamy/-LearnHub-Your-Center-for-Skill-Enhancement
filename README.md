@@ -1,6 +1,6 @@
 <!-- 
 Banner Image:
-Create a banner (1280x400px is a good size) using a tool like Canva or Figma.
+Create a banner (1280x400px) using a tool like Canva or Figma.
 Include your name, title, and tech icons. Upload it to a new public repo (e.g., "github-assets") and get the URL.
 -->
 
@@ -65,45 +65,37 @@ I’m a passionate **B.Tech student** specializing in **Full Stack Web Developme
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Spotlight Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🍴 <a href="https://github.com/Bellamkondakumaraswamy/Food-Delivery-App-Using-Mern-Stack">Online Food Delivery App</a></h3>
-      <p>Full-stack MERN application with login, restaurant listings, cart, and order management.</p>
+      <h3>📚 <a href="https://github.com/Bellamkondakumaraswamy/LearnHub">LearnHub - Your Center for Skill Enhancement</a></h3>
+      <p>An online platform to enhance skills and provide learning resources with interactive content and user-friendly interface.</p>
       <p>
-        <img src="https://img.shields.io/badge/MERN_Stack-00BFFF?style=for-the-badge">
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="#">AI Chatbot for College Automation</a></h3>
-      <p>AI chatbot for automating college queries using conversational AI and NLP techniques.</p>
+      <h3>🍴 <a href="https://github.com/Bellamkondakumaraswamy/Food-Delivery-App-Using-Mern-Stack">Online Food Delivery App</a></h3>
+      <p>Full-stack MERN application with login, restaurant listings, cart, and order management for seamless food ordering.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI_Chatbot-FF6F61?style=for-the-badge">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge">
+        <img src="https://img.shields.io/badge/MERN_Stack-00BFFF?style=for-the-badge" alt="MERN Stack"/>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 <a href="#">Finance Tracker App</a></h3>
-      <p>Web app to manage personal expenses and visualize spending patterns using dashboards.</p>
+      <h3>💻 <a href="https://github.com/Bellamkondakumaraswamy/Mywebsite">My Personal Website</a></h3>
+      <p>Responsive personal portfolio website to showcase projects, skills, and contact information using HTML, CSS, and JavaScript.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="#">Data Visualization Dashboard</a></h3>
-      <p>Interactive dashboards for business insights using Power BI and data analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
   </tr>
@@ -114,7 +106,7 @@ I’m a passionate **B.Tech student** specializing in **Full Stack Web Developme
 ### 🏆 Achievements
 - Built several full stack projects integrating frontend & backend seamlessly  
 - Participated in hackathons & coding events for innovative solutions  
-- Developed projects like the **College Automation Chatbot** for academic and community purposes  
+- Developed projects for academic and community purposes like AI & web apps  
 
 ---
 
